@@ -42,25 +42,13 @@ I enjoy turning complex problems into simple, intuitive interfaces — and writi
 
 ## 📌 Highlight Projects
 
-### 👗 E-commerce Clothing App
-- Vue 3 / Nuxt 3 frontend with TypeScript  
-- Product catalog, shopping cart, checkout  
-- User authentication & order history  
-- Integration with REST API backend
 
-### 📝 Online Assessment Platform
-- Built with HTML, CSS, Javascript and PHP 
-- Interactive quizzes
-- Admin panel to create & manage assessments  
-- Responsive & accessible interface  
+### 👗 [E-commerce Clothing App](https://github.com/your-username/ecommerce-clothing-app)
 
+### 📝 [Online Assessment Platform](https://github.com/AUKhattak/Online-Assessment-System-for-Students.git)
 
-### 📸 ExTreme Photo Studio
-Full-stack PHP & MySQL web application for managing photography studio operations.  
-- User authentication  
-- Admin dashboard  
-- Order & employee management  
-- Gallery & feedback system  
+### 📸 [ExTreme Photo Studio](https://github.com/your-username/extreme-photo-studio)
+
 
 
 
