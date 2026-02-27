@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad Usman 👋
 
-### Full Stack Developer | React | Python
+### Full Stack Developer | React & Next.js Specialist (TypeScript/JavaScript, State Management) | Python Backend (FastAPI, API Design, SQL)
 
 I build clean, scalable, and user-focused web applications.  
 Currently based in **Germany 🇩🇪**, open to frontend and full-stack opportunities.
