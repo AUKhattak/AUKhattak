@@ -9,8 +9,8 @@ I enjoy turning complex problems into simple, intuitive interfaces — and writi
 
 
 ---
-### My Tech Stack ✅
-### Frontend 🎨
+### My Tech Stack 
+### Frontend 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -23,14 +23,14 @@ I enjoy turning complex problems into simple, intuitive interfaces — and writi
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Backend ⚙️
+### Backend 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-003545?style=for-the-badge&logoColor=white)
 
-### DevOps & Tools 🛠️
+### DevOps & Tools 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -39,7 +39,7 @@ I enjoy turning complex problems into simple, intuitive interfaces — and writi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### Languages 🌐
+### Languages 
 ![English](https://img.shields.io/badge/English-C1-4B8BF5?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-B1-FFCC00?style=for-the-badge)
 
