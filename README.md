@@ -48,12 +48,12 @@ I enjoy turning complex problems into simple, intuitive interfaces — and writi
 ## 📌 Highlight Projects
 
 
-### 👗 [E-commerce Clothing App](https://github.com/your-username/ecommerce-clothing-app)  
+###  [E-commerce Clothing App](https://github.com/your-username/ecommerce-clothing-app)  
 *(Private repository — access can be granted upon request)*
 
-### 📝 [Online Assessment Platform](https://github.com/AUKhattak/Online-Assessment-System-for-Students.git)
+###  [Online Assessment Platform](https://github.com/AUKhattak/Online-Assessment-System-for-Students.git)
 
-### 📸 [ExTreme Photo Studio](https://github.com/AUKhattak/ExTreme-Photo-Studio.git)
+###  [ExTreme Photo Studio](https://github.com/AUKhattak/ExTreme-Photo-Studio.git)
 
 
 
