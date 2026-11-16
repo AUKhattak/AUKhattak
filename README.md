@@ -31,7 +31,7 @@ I'm continuously learning, experimenting with new technologies, and improving th
 
 
 ### Languages 
-English (C1) | German (B1)
+English (C1) | German (B2)
 
 
 ## Beyond Coding
